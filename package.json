@@ -1,0 +1,19 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "Teste de pacotes para atividade Softex",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfocmoura/packages.git"
+  },
+  "author": "rodolfocmoura <rodolfo.carvalho.moura@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfocmoura/packages/issues"
+  },
+  "homepage": "https://github.com/rodolfocmoura/packages#readme"
+}
